@@ -2,7 +2,7 @@
 
 I'm Sinan, Data Scientist | AI Enthusiast 💻
 
-![Data Scientist at Work](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Data Scientist at Work]([https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://github.com/sinanshereef/sinanshereef/commit/d49720a19ea898a6db97b7fe2bfcbbcae638d5ac#diff-fb2922492157be6aea339221cf61fbc391960f75adc5546fb30a5890b45e2cad))
 
 ---
 
