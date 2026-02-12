@@ -1,42 +1,49 @@
-# Hi Fellow Devs 👋
+# Hello, Curious Minds 👋🏻
 
-I'm Sinan, Data Scientist | AI Enthusiast 💻
+## **I'm Sinan Shereef** — Data Scientist | AI Engineer
+*Transforming raw data into intelligent, scalable systems.*
 
-![Data Scientist at Work]([https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://github.com/sinanshereef/sinanshereef/commit/d49720a19ea898a6db97b7fe2bfcbbcae638d5ac#diff-fb2922492157be6aea339221cf61fbc391960f75adc5546fb30a5890b45e2cad))
+<img src="updated.gif" width="680" alt="AI Developer Working"/>
 
 ---
 
-## 🛠️ Technologies and Tools I Use
+## 🛠️ Tech Stack & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-00BFFF?style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💾 Data Scientist passionate about transforming raw data into impactful, actionable insights.
-- 🤖 Exploring Generative AI; architecting machine learning and deep learning solutions.
-- 📊 Skilled in analytics, dashboarding, automation, and story-driven data visualization.
-- ⚙️ Well-versed with Python, SQL, HTML, PowerBI, MS Office, and AI frameworks.
-- 🚀 Enthusiastic about working on innovative data science projects and sharing knowledge with the community.
-- 🏆 Active participant in hackathons and data competitions.
-- 💡 Motto: "Turn curiosity into insight and insight into value."
-- 📈 Fun fact: I love storytelling with data and simplifying complex analytics.
+- 🎓 B.Tech in Computer Science  
+- 💼 Data Scientist & AI Engineer building impactful, data-driven solutions  
+- 🧠 Strong expertise in ML, DL, NLP & Generative AI architectures  
+- 📊 Skilled in data preprocessing, feature engineering & model optimization  
+- 🐍 Professional Python developer with strong analytical & algorithmic thinking  
+- 📈 Experienced in business intelligence & storytelling using Power BI  
+- 🐳 Deploying scalable, containerized applications using Docker  
+- 🗄️ Working with relational databases like MySQL  
+- 🏆 Active Kaggle competitor & data challenge participant  
+- 🔍 Consistent LeetCode practice to sharpen DSA & problem-solving  
+- 🚀 Focused on building scalable, production-ready AI systems  
 
 ---
 
-## ❤️ Let's Get Connected
+## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sinanshereef)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sinanshereef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinanshereef)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_s.naan._)
-
