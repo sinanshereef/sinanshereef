@@ -1,4 +1,4 @@
-# Hello, Curious Minds 👋🏻
+# Hello, thinker👋🏻
 
 ## **I'm Sinan Shereef** — Data Scientist | AI Engineer
 *Transforming raw data into intelligent, scalable systems.*
